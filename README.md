@@ -1,2 +1,1 @@
-# hellosun
-learn git
+learn git commit
